@@ -1,0 +1,5 @@
+id,firstname,surname,dateofbirth,email,contact,add1,add2,ahno,postalcode,department,designation,datehired,basicsalary,jobtitle,status,image,gender,emId
+1,Sarath,Perera,1970-05-24,sarath@gmail.com,0789090000,Kaduwela,Colombo,20,10500,Sales,"Head of Department",2020-06-10,200000.00,"Senior Manager",Married,...,M,NULL
+2,Kaushalya,Ediriweera,1980-07-09,kaushalya@gmail.com,078699890,Kottawa,Colombo,14/2,10900,Marketing,Junior,2024-01-02,30600.00,"Junior Manager",Single,...,F,NULL
+4,Dhanuka,Wikramasinghe,1986-10-23,dhanu@gmail.com,0765432100,Koswatta,Colombo,27/4,10700,Sales,Deputy,2021-03-02,80000.00,"Area Sales Manager",Married,...,M,NULL
+5,Dewmini,Paranawitharana,1999-01-23,dewmi@gmail.com,074321889,Malabe,Colombo,45/9,10400,IT,junior,2024-05-22,10000.00,Intern,Single,...,F,NULL
