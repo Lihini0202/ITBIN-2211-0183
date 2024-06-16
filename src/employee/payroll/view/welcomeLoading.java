@@ -140,7 +140,7 @@ public class welcomeLoading extends javax.swing.JFrame {
         
              for(int i = 0; i < 100; i++){
              
-               Thread.sleep(50);
+               Thread.sleep(600);
                load.progress.setValue(i);
 
              }
@@ -156,8 +156,7 @@ public class welcomeLoading extends javax.swing.JFrame {
         }
         
         
-        
-        
+       //
         
         
     }

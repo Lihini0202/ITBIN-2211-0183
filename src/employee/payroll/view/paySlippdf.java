@@ -8,7 +8,7 @@ package employee.payroll;
  *
  * @author ROG
  */
-
+//
 import java.sql.SQLException;
 
 
@@ -17,7 +17,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-
+///
 
 public class paySlippdf extends javax.swing.JFrame {
 
